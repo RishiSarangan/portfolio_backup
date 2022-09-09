@@ -1,0 +1,140 @@
+body{
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  line-height: 1.5;
+}
+
+hr{
+  width: 5%;
+  border-top: dotted #A6E3E9 8px;
+}
+
+/* top container content */
+.top-container{
+  background-color: #CBF1F5;
+  padding-top: 100px;
+  position: relative;
+}
+
+.heading{
+  width: 30%;
+  margin: 0 auto;
+  font-family: 'Poppins', sans-serif;
+  color: #00ADB5;
+  font-size: 5rem;
+  padding-top: 50px;
+}
+
+.subheading
+{
+  width: 30%;
+  margin: 0 auto;
+  font-family: 'Poppins', sans-serif;
+  color : #393E46;
+  font-size: 2rem;
+  padding-bottom: 50px;
+}
+
+.top-cloud{
+  padding-top: 50px;
+  position: absolute;
+  right: 300px;
+  bottom: 600px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+}
+
+/* profile div content */
+
+.profile{
+  background-color: #E3FDFD;
+}
+
+.dp{
+  padding-top: 50px;
+  padding-bottom: 20px;
+  width: 20%;
+}
+
+.hello{
+  color: #00ADB5;
+  font-size: 3rem;
+}
+
+.intro{
+  color: #393E46;
+  font-family: 'Poppins', sans-serif;
+  font-size: 1rem;
+  padding-bottom: 50px;
+}
+
+/* skills div content */
+
+.skills{
+  background-color: #E3FDFD;
+}
+
+.skillz{
+  color: #00ADB5;
+  font-size: 3rem;
+  padding-top: 50px;
+  padding-bottom: 5%;
+}
+
+.skill-image{
+   width: 8%;
+   float: left;
+   padding-left: 30%;
+}
+
+.code-skills{
+  padding-left: 40%;
+  padding-bottom: 8%;
+  width: 30%;
+  text-align: right;
+}
+
+.skill-image2{
+  width: 8%;
+  float: right;
+  padding-right:30%;
+}
+
+.general-skills{
+  padding-left: 30%;
+  padding-bottom: 8%;
+  width: 30%;
+  text-align: left;
+}
+
+/* contact div */
+
+.touch{
+  color: #00ADB5;
+  font-size: 3rem;
+  padding-top: 50px;
+  padding-bottom: 2%;
+}
+
+.joke{
+  padding-bottom: 5%;
+}
+
+.social{
+  width: 5%;
+  padding-bottom: 5%;
+  margin:0 3%;
+}
+
+/* footer div */
+.footer{
+  background-color: #71C9CE;
+}
+
+.footer-text{
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
